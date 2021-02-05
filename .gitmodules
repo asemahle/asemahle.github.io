@@ -1,0 +1,3 @@
+[submodule "ulam-spiral-toy"]
+	path = ulam-spiral-toy
+	url = https://github.com/asemahle/ulam-spiral-toy
